@@ -1,5 +1,5 @@
 # song-recognizer
-A small program that uses OpenAI's speech-to-text tool and Librosa's CENS chroma fingerprinting to categorize songs given recordings of various performances, such as studio version, acoustic version, rehearsal recordings etc.
+A small program that uses OpenAI's speech-to-text tool and Librosa's CENS chroma fingerprinting to categorize songs given recordings of various performances, such as studio version, acoustic version, rehearsal recordings etc. Created on FER as Bachelor's Thesis for Computing Bachelor programme under the tutorship of prof. dr. sc. Antonio Petošić.
 
 This program allows users to interact via the command line to either:
 
