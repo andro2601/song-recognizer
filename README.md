@@ -31,11 +31,13 @@ The current version communicates through standard input (command line). The two 
 
 ```bash
 py main.py classify -l [language] -b [milliseconds]
+```
 
 ### Store a known recording:
 
 ```bash
 py main.py store -l [language] -b [milliseconds] -a [artist] -s [song] -v [version]
+```
 
 ## Details
 
